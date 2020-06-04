@@ -1,10 +1,10 @@
 # Breast-Cancer-Classifier
-A machine learning model which predicts whether the breast cancer is Malignant or Benign cancer, depending on certain input values. KNN algorithm used with an accuracy  of 98%.
+A machine learning model which predicts whether the breast cancer is **Malignant** or **Benign cancer**, depending on certain input values. KNN algorithm used with an accuracy  of 98%.
 
 
-# Cancer occurs when changes called mutations take place in genes that regulate cell growth. The mutations let the cells divide and multiply in an uncontrolled way.
+**Cancer** occurs when changes called mutations take place in genes that regulate cell growth. The mutations let the cells divide and multiply in an uncontrolled way.
 
-Breast cancer is a cancer that develops in breast cells. Typically, the cancer forms in either the lobules or the ducts of the breast. Lobules are the glands that produce milk, and ducts are the pathways that bring the milk from the glands to the nipple.
+**Breast cancer** is a cancer that develops in breast cells. Typically, the cancer forms in either the lobules or the ducts of the breast. Lobules are the glands that produce milk, and ducts are the pathways that bring the milk from the glands to the nipple.
 
 # Risk Factors Of Breast Cancer
 
